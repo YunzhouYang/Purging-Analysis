@@ -15,6 +15,15 @@ As seletions (directional and relaxed) were carrried out in XWS/XWR (X=H or L), 
   - Install hapFLK and python2.7.
   - transform the vcf files to fam/ped or binary formats by PLINK. As chicken genome has more than 23 chromosome pairs, **--aec --chr-set 28** should be added to your commands.
   - Run hapFLK for each chromosome respectviely and merge results (Set K=10).
+  - Download *scale_chi2_hapflk.py* to calculated pvalues based on hapFLK results.
+  - Calculate FDR threshold to select selected and relaxed regions. You cannot tell which regions is under ongoing selection or relaxed selection currently unless you continue the following steps.
+  - Extract significant regions and plot local trees. Script used: `plot_tree_for_local_regions.R`
+  
+Based on trees, you can find regions which are under ongoing selection  and which are under relexed selection.
+
+## 
+  
+  
   
 
 
