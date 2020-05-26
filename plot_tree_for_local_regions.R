@@ -277,6 +277,7 @@ hws_chr8_2Mb_tree<-read.tree("hws_tree_chr8_from_2352132_to_2684657_KING_tree.tx
 plot(hws_chr8_2Mb_tree,align=T,cex=1);axis(1,line=1)
 title(xlab='Chr8 2.3 ~ 2.7 Mb in HW lines',cex.lab=1.2)
 fig_label("E",region = "plot",pos = "topleft",cex = 2)
+## Chr20 10Mb
 hws_chr20_10Mb_tree<-read.tree("hws_tree_chr20_from_10692416_to_10737192_KING_tree.txt")
 plot(hws_chr20_10Mb_tree,align=T,cex=1);axis(1,line=1);
 title(xlab='Chr20 10.6 ~ 10.7 Mb in HW lines',cex.lab=1.2)
