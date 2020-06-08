@@ -1,6 +1,6 @@
 # Purging
 # Introduction
-Virginia chicken lines were an well-designed experimental populations which were used to study complicated tratis, such as body weight, fitness. Bi-directional selection on 56-day body weight was used to produce high body weight lines (HWS) and low body weight lines (LWS). Meanwhile, relaxed lines (HWR/LWR) were also created as a contemporary lines to HWS and LWS. By comparing genomes among XWS and XWR populations, we detected purged regions when selection was stopped. We created this repository to publish our data which were used in our recent work on *GENES* [Click here](https://www.mdpi.com/2073-4425/11/6/630) to see full text.
+Virginia chicken lines were an well-designed experimental populations which were used to study complicated tratis, such as body weight, fitness. Bi-directional selection on 56-day body weight was used to produce high body weight lines (HWS) and low body weight lines (LWS). Meanwhile, relaxed lines (HWR/LWR) were also created as a contemporary lines to HWS and LWS. By comparing genomes among XWS and XWR populations, we detected purged regions when selection was stopped. We created this repository to publish our data which were used in our recent work on [*GENES*](https://www.mdpi.com/2073-4425/11/6/630) to see full text.
 
 ## Imputation
 
